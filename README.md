@@ -1,5 +1,7 @@
 # About the App
 This is a simple app written in Python and using Streamlit for playing rock, paper, scissors.
+<img width="1792" alt="image" src="https://github.com/zwcampbell/rock_paper_scissors_game/assets/44709448/3a122e80-d0bc-4b96-a31f-830be7592f67">
+
 
 # File Organization
 * Any depdendent modules/packages are found in `requirements.txt`. 
